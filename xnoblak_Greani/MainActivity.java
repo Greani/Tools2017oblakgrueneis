@@ -8,5 +8,6 @@ printf("Here is a bugfix aswell, WOW COOL!");
 printf("Like dis!");
 double noblak = 4;
 printf("Added this on my bugfix branch");
+int bugfix = 5; //Die ultimative Bugfix-Variable
 }
 }
