@@ -5,9 +5,10 @@ int i = 7;
 }
 public void newMethod(){
 printf("Like dis!");
-double noblak = 4;
+double noblak = 18;
 printf("xnoblak");
-while(noblak =3){
+while(noblak <18){
+printf("noblak too young");
 }
 
 }
