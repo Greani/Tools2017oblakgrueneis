@@ -5,5 +5,6 @@ int i = 7;
 }
 public void newMethod(){
 printf("Like dis!");
+double noblak = 4;
 }
 }
